@@ -11,3 +11,4 @@
 5. If the letter does occur in the word, the computer notifies the players. If there are letters left to guess, the computer invites the player to go on;
 6. When the entire word is uncovered — it's a victory! The game should calculate the final score and return to the main menu.
 
+<b><u>WORK IN PROGRESS</u></b>
